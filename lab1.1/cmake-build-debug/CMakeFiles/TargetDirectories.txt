@@ -1,0 +1,3 @@
+/Users/macbookpro/Developer/Univercity/ooplabas/lab1.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/macbookpro/Developer/Univercity/ooplabas/lab1.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/macbookpro/Developer/Univercity/ooplabas/lab1.1/cmake-build-debug/CMakeFiles/lab1.dir
