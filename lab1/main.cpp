@@ -1,7 +1,7 @@
 #include <iostream>
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+#include <cstdio>
+#include <cstdlib>
+#include <ctime>
 #define n 10
 #define m 10
 
@@ -36,7 +36,7 @@ void printingArr(int arr[n][m]){
 
 }
 
-
+//Searching for max el
 int searchMax(int arr[n][m]){
     int max = -21, i, j;
     //Searching for max element
@@ -53,12 +53,28 @@ int searchMax(int arr[n][m]){
     return max;
 }
 
+int notZeroStrings (int arr[n][m]){
+    int i,j, counter = 0;
+    for (i=0; i<m; i++) {
+        for (j = 0; j < n; j++) {
+            if (arr[i][j] == 0) {
+                counter++;
+                break;
+            } else {
+                continue;
+            }
+        }
+    }
+    return (10-counter);
+}
+
 int main(){
     int arr[n][m];
     arr[n][m]=randArr(arr);
     printingArr(arr);
     int maxEl = searchMax(arr);
-    printf("The element %d is highest", maxEl);
+    int notZero = notZeroStrings(arr);
+    printf("There are %d non-zero strings", notZero);
 }
 
 

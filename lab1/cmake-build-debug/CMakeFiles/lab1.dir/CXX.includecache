@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/macbookpro/Developer/Univercity/lab1/main.cpp
+/Users/macbookpro/Developer/Univercity/ooplabas/lab1/main.cpp
 iostream
 -
-stdio.h
+cstdio
 -
-stdlib.h
+cstdlib
 -
-time.h
+ctime
 -
 
