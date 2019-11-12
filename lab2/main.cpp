@@ -106,9 +106,5 @@ int main()
             }
     }
 
-    delete[]A;
-
-    system("read -p 'Press Enter to continue...' var");
-    return 0;
 
 }
