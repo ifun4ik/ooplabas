@@ -12,14 +12,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df3b8d87-a05d-40c3-9284-7fbf9f510a25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab 2/lab2/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lab 2/lab2/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab1/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/cmake-build-debug/lab1" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/cmake-build-debug/lab1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/cmake-build-debug/CMakeFiles/lab1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/cmake-build-debug/CMakeFiles/lab1.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/cmake-build-debug/CMakeFiles/lab1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/cmake-build-debug/CMakeFiles/lab1.dir/link.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +69,7 @@
       <workItem from="1569053874896" duration="41000" />
       <workItem from="1569053946809" duration="46000" />
       <workItem from="1569054084070" duration="98000" />
+      <workItem from="1573798362445" duration="122000" />
     </task>
     <servers />
   </component>
