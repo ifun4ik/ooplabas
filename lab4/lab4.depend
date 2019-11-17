@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1573381746 source:c:\users\funny\documents\github\ooplabas\lab4\main.cpp
+	<iostream>
+	"classLib.h"
+
+1573382008 c:\users\funny\documents\github\ooplabas\lab4\classlib.h
+
