@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574516725 source:c:\users\funny\documents\github\ooplabas\lab5\main.cpp
+	<iostream>
+	<windows.h>
+	<cmath>
+
